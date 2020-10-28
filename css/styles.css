@@ -10133,8 +10133,8 @@ h3 {
   }
 }
 .masthead {
-  padding-top: calc(13rem + 100px);
-  padding-bottom: 13rem;
+  padding-top: calc(6rem + 50px);
+  padding-bottom: 6rem;
 }
 .masthead .masthead-heading {
   font-size: 3rem;
